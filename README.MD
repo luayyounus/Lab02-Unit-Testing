@@ -9,17 +9,18 @@
 		- Complete the kata in a markdown file named supermarket-kata.md. 
 
 2. [War Card Game](https://www.wikiwand.com/en/War_(card_game))
-```
-The rules of this card game are quite simple.
 
-There are two players.
-The cards are all dealt equally to each player.
-Each round, player 1 lays a card down face up at the same time that player 2 lays a card down face up. Whoever has the highest value card, wins both round and takes both cards.
-The winning cards are added to the bottom of the winners deck.
-Aces are high.
-If both cards are of equal value, then the winner is decided upon by the highest suit. The suits ranks in order of ascending value are spades, clubs, diamonds, and hearts.
-The player that runs out of cards loses.
-```
+
+The rules of this card game are quite simple : <br />
+1. There are two players.
+2. The cards are all dealt equally to each player.
+3. Each round, player 1 lays a card down face up at the same time that player 2 lays a card down face up. Whoever has the highest value card, wins both round and takes both cards.
+4. The winning cards are added to the bottom of the winners deck.
+5. Aces are high.
+6. If both cards are of equal value, then the winner is decided upon by the highest suit. The suits ranks in order of ascending value are spades, clubs, diamonds, and hearts.
+7. The player that runs out of cards loses.
+
+
 - complete this Kata in a C# Visual Studio Console Application
 
 3. [CodeCracker](http://codingdojo.org/kata/CodeCracker/)
