@@ -1,0 +1,16 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\XUnitWarCardGame.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\XUnitWarCardGame.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\XUnitWarCardGame.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\XUnitWarCardGame.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\XUnitWarCardGame.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\XUnitWarCardGame\obj\Debug\netcoreapp2.0\XUnitWarCardGame.pdb

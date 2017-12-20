@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarCardGame", "WarCardGame\WarCardGame.csproj", "{86F2282C-B25E-449A-971F-BDAB696E7345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitWarCardGame", "XUnitWarCardGame\XUnitWarCardGame.csproj", "{3C7082DE-80FF-4B07-B15F-43ABF341A2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F2282C-B25E-449A-971F-BDAB696E7345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F2282C-B25E-449A-971F-BDAB696E7345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F2282C-B25E-449A-971F-BDAB696E7345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F2282C-B25E-449A-971F-BDAB696E7345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7082DE-80FF-4B07-B15F-43ABF341A2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7082DE-80FF-4B07-B15F-43ABF341A2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7082DE-80FF-4B07-B15F-43ABF341A2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7082DE-80FF-4B07-B15F-43ABF341A2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178E4D6D-1AEE-442B-9B57-FE2580E34AFD}
+	EndGlobalSection
+EndGlobal
