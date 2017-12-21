@@ -1,19 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CodeCracker
 {
-    class Program
+    public class Program
     { 
-        static void Crack(string message, Dictionary<char, char> decryptionDict)
+        static string Decrypt(string message, Dictionary<char, char> decryptionDict)
         {
-            string messageCracked = "";
+            string messageDecrypted = "";
             foreach (char c in message.ToLower())
             {
-                messageCracked += decryptionDict[c];
+                messageDecrypted += decryptionDict[c];
             }
+            return messageDecrypted;
+        }
 
-            Console.WriteLine($"Original Message: {message} - Cracked Message: {messageCracked} \n");
+        static string Encrypt(string message, Dictionary<char, char> decryptionDict)
+        {
+            string messageEncrypted = "";
+            foreach (char c in message.ToLower())
+            {
+                messageEncrypted += decryptionDict.FirstOrDefault(x => x.Value == c).Key;
+            }
+            return messageEncrypted;
         }
 
         static void Main(string[] args)
@@ -21,15 +31,20 @@ namespace CodeCracker
             char[] decryptionCode = { '!', ')', '"', '(', '£', '*', '%', '&', '>', '<', '@', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o' };
             char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
 
-            Dictionary<char, char> decryptionCodeDict = new Dictionary<char, char>();
+            Dictionary<char, char> decryptionDict = new Dictionary<char, char>();
 
             for (int i = 0; i < alphabet.Length; i++)
             {
-                decryptionCodeDict[decryptionCode[i]] = Char.ToLower(alphabet[i]);
+                decryptionDict[decryptionCode[i]] = Char.ToLower(alphabet[i]);
             }
 
-            Crack("aj!n", decryptionCodeDict);
-            Console.Read();
+            string message = "luay";
+            string encryptedMessage = Encrypt(message, decryptionDict);
+            Console.WriteLine($" Original Message: {message} - Encrypted Message: {encryptedMessage} \n");
+
+            string decryptedMessage = Decrypt(encryptedMessage, decryptionDict);
+            Console.WriteLine($" Encrypted Message: {encryptedMessage} - Cracked Message: {decryptedMessage} \n");
+            Console.ReadLine();
         }
     }
 }
