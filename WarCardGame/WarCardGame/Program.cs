@@ -11,6 +11,15 @@ namespace WarCardGame
         public static string[] CardDeck = { "2", "3", "4", "5", "6", "7", "8", "9", "T", "J", "Q", "K", "A" };
         public static string[] CardSuit = { "hearts", "diamonds", "clubs", "spades" };
 
+        public static int[] RandomCard()
+        {
+            Random random = new Random();
+            int randomCard = random.Next(12);
+            int randomSuit = random.Next(3);
+
+            return new[] { randomCard, randomSuit };
+        }
+
         public static string CheckCards(string playerOneCard, string playerOneSuit, 
                                         string playerTwoCard, string playerTwoSuit)
         {
