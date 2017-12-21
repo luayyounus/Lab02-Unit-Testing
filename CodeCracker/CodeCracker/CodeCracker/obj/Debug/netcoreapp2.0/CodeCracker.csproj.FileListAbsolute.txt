@@ -1,0 +1,11 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.pdb
