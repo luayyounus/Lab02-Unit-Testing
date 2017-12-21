@@ -1,14 +1,22 @@
 using System;
 using Xunit;
+using CodeCracker;
 
 namespace XUnitCodeCracker
 {
     public class UnitTestCodeCracker
     {
         [Fact]
-        public void ReturnUnderstandablePhrase()
+        public void ReturnEncryptedMessage()
         {
-            Assert.Equal("This challenge is not so challenging");
+            Assert.Equal("aj!n", Message.Encrypt("luay"));
+        }
+
+        [Theory]
+        [InlineData("aj!n")]
+        public void ReturnDecryptedMessage(string message)
+        {
+            Assert.Equal("luay", Message.Decrypt(message));
         }
     }
 }
