@@ -9,7 +9,7 @@ namespace XUnitWarCardGame
         [Fact]
         public void CheckWhichPlayerWinsTheCard()
         {
-            Assert.Equal("P2", Game.CheckCards("5", "Spades", "7", "Hearts"));
+            Assert.Equal("P2", Game.CheckCards(new []{"5", "Spades"}, new []{"7", "Hearts"}));
         }
 
         [Theory]
@@ -18,7 +18,7 @@ namespace XUnitWarCardGame
         [InlineData("Q", "spades", "J", "hearts", "P1")]
         public void ReturnPlayerOneWinner(string p1Card, string p1Suit, string p2Card, string p2Suit, string expectedWinner)
         {
-            Assert.Equal(expectedWinner, Game.CheckCards(p1Card, p1Suit, p2Card, p2Suit));
+            Assert.Equal(expectedWinner, Game.CheckCards(new string[]{p1Card, p1Suit}, new string[]{p2Card, p2Suit}));
         }
 
         [Theory]
@@ -27,7 +27,7 @@ namespace XUnitWarCardGame
         [InlineData("Q", "hearts", "Q", "spades", "P2")]
         public void ReturnPlayerTwoWinner(string p1Card, string p1Suit, string p2Card, string p2Suit, string expectedWinner)
         {
-            Assert.Equal(expectedWinner, Game.CheckCards(p1Card, p1Suit, p2Card, p2Suit));
+            Assert.Equal(expectedWinner, Game.CheckCards(new string[] { p1Card, p1Suit }, new string[] { p2Card, p2Suit }));
         }
     }
 }
