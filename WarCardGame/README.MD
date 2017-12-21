@@ -12,11 +12,11 @@ This is a console application game. It allows two random players to draw, war an
 - [GitBash / Terminal](https://git-scm.com/downloads)
 
 ## Getting Started
-1. Clone the repository to your local machine
-2. Cd into the application directory where the `AppName.sln` exist
-3. Open the application using `Open/Start AppName.sln`
-4. Once Visual Studio is opened, you can Run the application by clicking on the `Green Play Button` and the console app will run
-5. Press `Enter` to move on in the application
+1. Clone the repository to your local machine.
+2. Cd into the application directory where the `AppName.sln` exist.
+3. Open the application using `Open/Start AppName.sln`.
+4. Once Visual Studio is opened, you can Run the application by clicking on the <img src="https://github.com/luayyounus/Lab02-Unit-Testing/blob/Lab02-Luay/WarCardGame/play-button.jpg" width="16"> and the console app will run.
+5. Press `Enter` to move on in the application.
 
 ## Credits and Collaborations
 Thanks to Amanda for reviewing my code in-class and explaining it to class mates.
