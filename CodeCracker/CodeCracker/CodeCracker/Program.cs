@@ -4,20 +4,11 @@ using System.Linq;
 
 namespace CodeCracker
 {
-    public class Program
-    { 
-        static string Decrypt(string message, Dictionary<char, char> decryptionDict)
+    public class Message
+    {
+        public static string Encrypt(string message)
         {
-            string messageDecrypted = "";
-            foreach (char c in message.ToLower())
-            {
-                messageDecrypted += decryptionDict[c];
-            }
-            return messageDecrypted;
-        }
-
-        static string Encrypt(string message, Dictionary<char, char> decryptionDict)
-        {
+            Dictionary<char, char> decryptionDict = CreateDecryptionDictionary();
             string messageEncrypted = "";
             foreach (char c in message.ToLower())
             {
@@ -26,10 +17,21 @@ namespace CodeCracker
             return messageEncrypted;
         }
 
-        static void Main(string[] args)
+        public static string Decrypt(string message)
         {
-            char[] decryptionCode = { '!', ')', '"', '(', '£', '*', '%', '&', '>', '<', '@', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o' };
-            char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
+            Dictionary<char, char> decryptionDict = CreateDecryptionDictionary();
+            string messageDecrypted = "";
+            foreach (char c in message.ToLower())
+            {
+                messageDecrypted += decryptionDict[c];
+            }
+            return messageDecrypted;
+        }
+
+        public static Dictionary<char, char> CreateDecryptionDictionary()
+        {
+            char[] decryptionCode = { '!', ')', '"', '(', '£', '*', '%', '&', '>', '<', '@', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', ' ' };
+            char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' ' };
 
             Dictionary<char, char> decryptionDict = new Dictionary<char, char>();
 
@@ -37,12 +39,16 @@ namespace CodeCracker
             {
                 decryptionDict[decryptionCode[i]] = Char.ToLower(alphabet[i]);
             }
+            return decryptionDict;
+        }
 
-            string message = "luay";
-            string encryptedMessage = Encrypt(message, decryptionDict);
+        static void Main(string[] args)
+        {
+            string message = "This challenge is not so challenging";
+            string encryptedMessage = Encrypt(message);
             Console.WriteLine($" Original Message: {message} - Encrypted Message: {encryptedMessage} \n");
 
-            string decryptedMessage = Decrypt(encryptedMessage, decryptionDict);
+            string decryptedMessage = Decrypt(encryptedMessage);
             Console.WriteLine($" Encrypted Message: {encryptedMessage} - Cracked Message: {decryptedMessage} \n");
             Console.ReadLine();
         }
