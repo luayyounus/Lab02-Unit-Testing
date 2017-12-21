@@ -5,7 +5,7 @@
 
 ## Overview
 This is a console application game. It allows two random players to draw, war and win the game when a player loses all their cards.
-[Game Rules]("https://www.wikiwand.com/en/War_(card_game)")
+
 
 ## Requirements to run the Application
 - [Visual Studio 2017 Community with .NET Core 2.0 SDK](https://www.microsoft.com/net/core#windowscmd)
@@ -18,5 +18,7 @@ This is a console application game. It allows two random players to draw, war an
 4. Once Visual Studio is opened, you can Run the application by clicking on the Play button <img src="https://github.com/luayyounus/Lab02-Unit-Testing/blob/Lab02-Luay/WarCardGame/play-button.jpg" width="16"> and the console app will run.
 5. Press `Enter` to move on in the application.
 
-## Credits and Collaborations
-Thanks to Amanda for reviewing my code in-class and explaining it to class mates.
+## Credits and Resources
+Thanks to Amanda for reviewing my code in-class and explaining it to the class.
+
+[Click here to read the Game Rules and know more about the game](https://www.wikiwand.com/en/War_(card_game))
