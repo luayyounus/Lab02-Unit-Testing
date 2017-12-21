@@ -1,0 +1,16 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\XUnitCodeCracker.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\XUnitCodeCracker.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\XUnitCodeCracker.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\XUnitCodeCracker.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\XUnitCodeCracker.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\CodeCracker\CodeCracker\XUnitCodeCracker\obj\Debug\netcoreapp2.0\XUnitCodeCracker.pdb

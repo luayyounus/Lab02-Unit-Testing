@@ -1,0 +1,11 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.pdb
