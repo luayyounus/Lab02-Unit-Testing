@@ -1,5 +1,5 @@
 # Kata01: Supermarket Pricing
-[Link to Kata](http://codekata.com/kata/kata01-supermarket-pricing/)
+[[Link to Supermarket Pricing Kata]](http://codekata.com/kata/kata01-supermarket-pricing/)
 
 ### My breakdown to the problem
 For a starter we need first to define each of the components that we have in our model by asking questions:
