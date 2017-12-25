@@ -1,0 +1,11 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\bin\Debug\netcoreapp2.0\Anagrams.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\Anagrams\obj\Debug\netcoreapp2.0\Anagrams.pdb
