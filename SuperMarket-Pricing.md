@@ -1,5 +1,7 @@
 # Kata01: Supermarket Pricing
+[Link to Kata](http://codekata.com/kata/kata01-supermarket-pricing/)
 
+### My breakdown to the problem
 For a starter we need first to define each of the components that we have in our model by asking questions:
 - Why would the customer want to buy more than a can of beans?
 - Does the product offer discounts or free product every third or fourth piece/pound?
