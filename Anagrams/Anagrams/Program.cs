@@ -5,16 +5,34 @@ using System.Text;
 
 namespace Anagrams
 {
-    class Program
+    public class AnagramsApp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("\n\t Finding Anagrams from the wordlist text file." +
                               "\n\t The operation might take up to 10 seconds." +
                               "\n\t A message will show up when finished.");
 
-            // Reading word list text and storing each line into an index inside a string array
-            string[] wordsToCheck = File.ReadAllLines("wordlist.txt");
+            // Reading word list text and storing each line at index inside a string array
+            string[] wordsArray = File.ReadAllLines("wordlist.txt");
+
+            // Calling Find Anagrams and returning two results to be printed to the console
+            string[] result = FindAnagrams(wordsArray);
+
+            string longestWordsAnagrams = result[0]; // Longest Words Anagrams in file
+            string setWithMostWordsAnagrams = result[1]; // Set With Most Words Anagrams in file
+
+            Console.WriteLine("\n----------------------------------------------------------------------------------" +
+                              $"\n Longest Words Anagrams: {longestWordsAnagrams}" +
+                              $"\n Set with Most Words Anagrams: {setWithMostWordsAnagrams}" +
+                              "\n Operation Completed! Check 'output.txt' inside your solution to find Anagarams.\n" +
+                              "\n----------------------------------------------------------------------------------");
+            Console.Read();
+        }
+
+        public static string[] FindAnagrams(string[] wordList)
+        {
+            string[] wordsToCheck = wordList;
 
             // New array with all words sorted ascendingly for later comparison about anagrams
             string[] wordsSorted = new string[wordsToCheck.Length];
@@ -68,7 +86,7 @@ namespace Anagrams
                     }
 
                     // Converting String builder back to a string to print to output
-                    string anagramToOutput = sb.ToString();
+                    string anagramToOutput = sb.ToString().Trim();
 
                     // if the new set has more anagrams than the previous set, then set it to the most anagrams count
                     if (tempSetWithMostAnagramsCount > setWithMostWordsAnagramsCount)
@@ -96,13 +114,7 @@ namespace Anagrams
                     sb.Clear();
                 }
             }
-
-            Console.WriteLine("\n----------------------------------------------------------------------------------" +
-                              $"\n Longest Words Anagrams: {longestWordsAnagrams}" +
-                              $"\n Set with Most Words Anagrams: {setWithMostWordsAnagrams}" +
-                              "\n Operation Completed! Check 'output.txt' inside your solution to find Anagarams.\n" +
-                              "\n----------------------------------------------------------------------------------");
-            Console.Read();
+            return new[]{longestWordsAnagrams, setWithMostWordsAnagrams};
         }
     }
 }

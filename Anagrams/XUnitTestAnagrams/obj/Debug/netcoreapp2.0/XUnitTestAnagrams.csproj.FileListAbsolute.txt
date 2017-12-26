@@ -1,0 +1,16 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\XUnitTestAnagrams.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\XUnitTestAnagrams.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\XUnitTestAnagrams.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\XUnitTestAnagrams.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\XUnitTestAnagrams.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\Anagrams.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\bin\Debug\netcoreapp2.0\Anagrams.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab02-Unit-Testing\Anagrams\XUnitTestAnagrams\obj\Debug\netcoreapp2.0\XUnitTestAnagrams.pdb
