@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Anagrams
 {
-    class Program
+    public class AnagramsApp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("\n\t Finding Anagrams from the wordlist text file." +
                               "\n\t The operation might take up to 10 seconds." +
@@ -30,7 +30,7 @@ namespace Anagrams
             Console.Read();
         }
 
-        static string[] FindAnagrams(string[] wordList)
+        public static string[] FindAnagrams(string[] wordList)
         {
             string[] wordsToCheck = wordList;
 
@@ -86,7 +86,7 @@ namespace Anagrams
                     }
 
                     // Converting String builder back to a string to print to output
-                    string anagramToOutput = sb.ToString();
+                    string anagramToOutput = sb.ToString().Trim();
 
                     // if the new set has more anagrams than the previous set, then set it to the most anagrams count
                     if (tempSetWithMostAnagramsCount > setWithMostWordsAnagramsCount)
